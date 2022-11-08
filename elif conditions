@@ -1,0 +1,9 @@
+a = int(input("Enter the num1 ="))
+b = int(input("Enter the num2 = "))
+if b > a:
+  print("b is greater than a")
+if b<a:
+    print("a is greater than b")
+elif a == b:
+  print("a and b are equal")
+print("RISHI PRAJAPATI")
